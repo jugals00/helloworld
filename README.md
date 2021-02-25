@@ -6,3 +6,9 @@ GitHub prueba
 2. ver youtube
 
 # comida
+
+
+primaria
+secundaria
+prepa
+licenciatura
