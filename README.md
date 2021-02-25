@@ -12,3 +12,4 @@ primaria
 secundaria
 prepa
 licenciatura
+maestria
